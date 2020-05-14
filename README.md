@@ -158,7 +158,8 @@ belay ledge at the top of the 4th pitch, so we ended up breaking the
 5th pitch up into two pitches. Thus the 5th pitch ended up at a very
 large and comfortable ledge at the base of the 5.6 splitter crack
 which is probably 50 feet or so beneath the summit. From that spot
-there's a great view of Tuolumne, Conness, Lembert, etc:
+there's a great view of Tuolumne Meadows, Mount Conness, Lembert Dome,
+etc:
 
 
 
@@ -194,7 +195,7 @@ the way:
 
 And here is a video of the final portion of the climb:
 
-- [Video of Last Pitch to the Summit](https://www.youtube.com/watch?v=0jwU62nIGIY&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=8&t=4s))
+- [Video of Last Pitch to the Summit](https://www.youtube.com/watch?v=0jwU62nIGIY&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=8&t=4s)
 
 And finally I was on the summit, arriving at 12:38pm, from a start
 just after 7am, so about 5 hours on the route. With about 30 minutes
@@ -238,7 +239,7 @@ up to the summit.
 Last but not least, here's a quick 20 second clip of the top out after
 we got all four of us on the two little summit blocks:
 
-- [Video of Our Top Out](https://www.youtube.com/watch?v=XLXa15WsC88&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=9&t=0s)
+- [Video of Our Top Out](https://www.youtube.com/watch?v=1XvsMHQJzz4&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=10&t=0s)
 
 As far as views go, the top of Cathedral ranks up there very high!
 
