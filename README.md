@@ -2,6 +2,10 @@
 
 Saturday August 20, 2011
 
+
+
+## Introduction
+
 "Beep beep beep" - the alarm in the tent next to us is going off.
 "Beep beep beep" - now there's an alarm in our tent going off as well.
 
@@ -69,11 +73,11 @@ approach.
 
 
 
-![image](/images/base-z.jpg)
+![image](/images/p0-z.jpg)
 
 
 
-The Climb
+## The Climb
 
 After taking 30 minutes to get ready, at 7:30am we begin climbing the
 A route while our partners start on the B route. We are the first on
@@ -109,7 +113,7 @@ built the anchor at the top of that pitch at the base of the chimney.
 
 
 
-The Chimney
+## The Chimney
 
 The chimney was actually easier then I'd anticipated. I took my pack
 off and left it at the base, climbed up high enough on the face that
@@ -125,7 +129,7 @@ up. Here's a shot down from the top of the chimney:
 
 Here's a video from my GoPro helmet camera climbing the chimney:
 
-- Pitch 4: Chimney Video
+- [Pitch 4: Chimney Video](https://www.youtube.com/watch?v=PiSFdDJFBXY&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=5&t=14s)
 
 I built an anchor at the top of the chimney, dropped some rope, hauled
 up my wife and I's pack followed by the packs of our friends climbing
@@ -146,7 +150,7 @@ downclimb. Here we're just finishing the fourth pitch:
 
 
 
-Topping Out
+## Topping Out
 
 The topo indicates that the 5th pitch reaches the summit, but doesn't
 indicate the pitch length, and we weren't sure if we were on the right
@@ -190,7 +194,7 @@ the way:
 
 And here is a video of the final portion of the climb:
 
-- Video of Last Pitch to the Summit
+- [Video of Last Pitch to the Summit](https://www.youtube.com/watch?v=0jwU62nIGIY&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=8&t=4s))
 
 And finally I was on the summit, arriving at 12:38pm, from a start
 just after 7am, so about 5 hours on the route. With about 30 minutes
@@ -234,11 +238,13 @@ up to the summit.
 Last but not least, here's a quick 20 second clip of the top out after
 we got all four of us on the two little summit blocks:
 
-- Video of Our Top Out
+- [Video of Our Top Out](https://www.youtube.com/watch?v=XLXa15WsC88&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=9&t=0s)
 
 As far as views go, the top of Cathedral ranks up there very high!
 
-The Descent
+
+
+## The Descent
 
 After spending nearly an hour on the summit, my wife placed a couple
 cams in the crack on her way down, put me on belay, and I followed
@@ -323,19 +329,26 @@ Some additional thoughts:
   a 70m rope.
 - Don't forget sunscreen & sunglasses!
 
+
+
+## Videos
+
 The videos from the day:
-- Pitch 1 (A Route)
-- Pitch 2 (A Route)
-- Pitch 3 (A Route)
-- Pitch 4 (Part 1 - Chimney) (A Route)
-- Pitch 4 (Part 2)
-- Pitch 5 (Part 1) (A Route)
-- Pitch 5 (Part 2) (A Route)
-- Pitch 6 (Part 1) (A Route) [Coming Soon]
-- Pitch 6 (Part 2) (A Route)
-- Summit Video 1
-- Summit Video 2
-- Pitch 7 (Downclimb) Descent Traverse
+- [Pitch 1](https://www.youtube.com/watch?v=NvtiTb4Mnvw&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=2&t=9s)
+- [Pitch 2](https://www.youtube.com/watch?v=WlAtK-zQgaA&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=3&t=3s)
+- [Pitch 3](https://www.youtube.com/watch?v=XO0FBM1X26c&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=4&t=8s)
+- [Pitch 4 Chimney](https://www.youtube.com/watch?v=PiSFdDJFBXY&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=5&t=14s)
+- [Pitch 5](https://www.youtube.com/watch?v=CxM_BPx0KCM&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=6&t=7s)
+- [Pitch 6 Part 1](https://www.youtube.com/watch?v=WmUlfbSH9HY&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=7&t=0s)
+- [Pitch 6 Top Out](https://www.youtube.com/watch?v=0jwU62nIGIY&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=8&t=4s)
+- [Summit Part 1](https://www.youtube.com/watch?v=XLXa15WsC88&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=9&t=0s)
+- [Summit Part 2](https://www.youtube.com/watch?v=1XvsMHQJzz4&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=10&t=0s)
+- [Summit Down Climb](https://www.youtube.com/watch?v=UQvL9xZiuQk&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=11&t=24s)
+- [Descent](https://www.youtube.com/watch?v=-284WlsgWz8&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=12&t=5s)
+
+
+
+## Summary
 
 If anyone is headed up to Cathedral the first time and has any
 questions regarding beta drop me a line.
