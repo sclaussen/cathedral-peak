@@ -14,7 +14,7 @@ from Porcupine Flat, throw on our harnesses, packs, racks, & turn on
 our headlamps...
 
 
-![image](./images/cathedral.jpg)
+![image](/images/cathedral.jpg)
 
 
 This is the third summer my wife and I've climbed trad. We started
@@ -47,7 +47,7 @@ our hike.
 
 
 
-![image](./images/hike-z.jpg)
+![image](/images/hike-z.jpg)
 
 
 
