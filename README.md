@@ -142,7 +142,7 @@ downclimb. Here we're just finishing the fourth pitch:
 
 
 
-![image](/images/p5-z.jpg)
+![image](/images/p4-z.jpg)
 
 
 
@@ -162,7 +162,7 @@ there's a great view of Tuolumne, Conness, Lembert, etc:
 
 
 
-![image](/images/summit-shane.jpg)
+![image](/images/summit-shane2.jpg)
 
 
 
@@ -278,38 +278,26 @@ Once we had returned to the base of the climb, and picked up some
 items we'd left there, relaxed for a few, grabbed some food & water,
 it took us about 90 minutes to do the return hike back to our car.
 
-Beta
+
+
+## Beta
 
 Here's the time the various segments of the day took as reference:
 
 - Hike - 120 minutes
-
 - Pre-Climb - 35 minutes
-
 - Pitch 1 - 28 minutes
-
 - Pitch 2 - 44 minutes
-
 - Pitch 3 - 47 minutes
-
 - Pitch 4 - 76 minutes (broke it into two mini pitches to haul packs)
-
 - Pitch 5 - 51 minutes
-
 - Pitch 6 - 44 minutes
-
 - Pitch 7 - 46 minutes (downclimb pitch) (336 min total or 48 min/pitch)
-
 - Summit - 50 minutes
-
 - Descent - 91 minutes (back to base of the climb)
-
 - Post-Hike - 20 minutes
-
 - Hike - 94 minutes
-
 - Traffic - 29 minutes (time we had to wait for others on the route)
-
 - Car 2 Car - 13 hours
 
 Some additional thoughts:
@@ -317,29 +305,22 @@ Some additional thoughts:
 - I would either (a) go really light next time around wrt the pack
   (e.g. less food & gear) or (b) take a full framed pack and leave it
   at the base.
-
 - I had a larger BD climbing pack that contained a plastic internal
   frame that dug into my back and made the hike out very
   uncomfortable.
-
 - I would take a smaller rack - I had a doubles up through #3 and a
   single #4 - I would likely drop the #4 and consider singles in the
   larger BD sizes.
-
 - The route eats up nuts and many sections can be run out relatively
   safely.
-
 - Consider taking more water then what you think you'll need, leave
   extra at the base for the return, drink a lot over the first three
   pitches.
-
 - There aren't many picnic ledges, so the food you eat on the route
   needs to be easily accessible and quickly consumable.
-
 - I would make sure I figured out how to do the route in 5 pitches by
   either figuring out the right spot at the top of pitch 4 or by using
   a 70m rope.
-
 - Don't forget sunscreen & sunglasses!
 
 The videos from the day:
