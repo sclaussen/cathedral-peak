@@ -335,6 +335,7 @@ Some additional thoughts:
 ## Videos
 
 The videos from the day:
+- [Full Playlist](https://www.youtube.com/playlist?list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG)
 - [Pitch 1](https://www.youtube.com/watch?v=NvtiTb4Mnvw&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=2&t=9s)
 - [Pitch 2](https://www.youtube.com/watch?v=WlAtK-zQgaA&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=3&t=3s)
 - [Pitch 3](https://www.youtube.com/watch?v=XO0FBM1X26c&list=PLpuFCISxNROKfo3oChSUIj7XI6htmp7VG&index=4&t=8s)
